@@ -6,7 +6,7 @@
 </p>
 <br><br>
 
-- 🔭 I’m currently working on a project **Mask Detector and Social Distance Detector**
+- 🔭 I’m currently working on a project **Physical Activity Relapse Predictor**
 
 - 🌱 I’m currently learning **TensorFlow, Flutter**
 
